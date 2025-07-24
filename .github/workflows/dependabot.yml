@@ -1,6 +1,6 @@
 version: 2
 updates:
-	- package-ecosystem: "npm" # or "maven", "gradle", "pip"
-		directory: "/" # To be updated to the directory holding the target file
-		schedule:
-			interval: "daily"
+  - package-ecosystem: "npm" # or "maven", "gradle", "pip"
+    directory: "/" # To be updated to the directory holding the target file
+    schedule:
+      interval: "daily"
